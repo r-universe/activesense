@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/activesense/activesense.r-universe.dev
 	branch = HEAD
+[submodule "GENEAclassify"]
+	path = GENEAclassify
+	url = https://github.com/ActiveSense/GENEAclassify
+[submodule "GENEAread"]
+	path = GENEAread
+	url = https://github.com/ActiveSense/GENEAread
